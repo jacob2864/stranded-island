@@ -1,3 +1,3 @@
-oh no you burn to death
+You accidently start a huge fire and burned to death.
 
-restart
+Restart
