@@ -1,4 +1,4 @@
-You fought him and you won!
+**You fought him and you won!**
 
 You found some keys and realized he has a boat parked on the shore.
 
