@@ -1,5 +1,5 @@
-you now have shelter
+You now have shelter.
 
-choices:
+You:
 - [make water filter](../situations/gettingwater.md)
 - [make survival tools](../situations/maketools.md)
