@@ -1,5 +1,5 @@
 You have shelter now.
 
 Now you:
-- [find other people](../hostileperson.md)
+- [find other people](../situations/hostileperson.md)
 - find survival needs (link to findneedsandgetsaved.md)
