@@ -1,5 +1,5 @@
 You find food, now you wont starve.
 
 Now you:
-- make shelter (link to makeshelter2.md)
-- make fire (link to firekillsyou.md)
+- [make shelter](../situations/makeshelter2.md)
+- [make fire](../situations/firekillsyou.md)

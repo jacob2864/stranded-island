@@ -1,5 +1,5 @@
 you now have shelter
 
 choices:
-- make water filter (link to getting water)
-- make survival tools (link to making tools)
+- [make water filter](../situations/gettingwater.md)
+- [make survival tools](../situations/maketools.md)
