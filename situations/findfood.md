@@ -1,5 +1,5 @@
-you find food, now you wont starve
+You find food, now you wont starve.
 
-choices:
+Now you:
 - make shelter (link to makeshelter2.md)
 - make fire (link to firekillsyou.md)

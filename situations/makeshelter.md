@@ -1,5 +1,5 @@
-you have shelter now
+You have shelter now.
 
-choices:
+Now you:
 - find other people (link to foundperson.md)
 - find survival needs (link to findneedsandgetsaved.md)
