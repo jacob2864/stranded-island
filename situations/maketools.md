@@ -4,4 +4,4 @@ While you were trying to make a sword to protect yourself and hunt,
 
 You accidently stabbed yourself and bled out to death
 
-Restart (link to start)
+[Restart](../situations/startgame.md)
