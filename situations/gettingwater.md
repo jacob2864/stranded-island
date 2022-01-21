@@ -6,4 +6,4 @@ You died!
 
 While getting water, a shark bit you and you bled out and died.
 
-Restart(link to start)
+[Restart](../situations/startgame.md)

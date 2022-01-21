@@ -1,5 +1,5 @@
-you wake up on the island
+You wake up on the island.
 
-choices:
+You first:
 - [make shelter](../situations/makeshelter.md)
 - [find food](../situations/findfood.md)
