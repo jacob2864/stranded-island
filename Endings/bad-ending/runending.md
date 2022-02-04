@@ -2,4 +2,4 @@ You tried to outrun him but he is faster kills you leaving you dead on the groun
 
 **You died!**
 
-[restart](../startgame.md)
+[restart](../../startgame.md)
