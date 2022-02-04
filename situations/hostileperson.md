@@ -2,5 +2,5 @@ He looks hostile and sees you
 
 Do you want to? :
 
-- [Run away](../situations/runending.md)
+- [Run away](../bad-ending/runending.md)
 - [fight him](../situations/fighting.md)
