@@ -4,4 +4,4 @@ You use the flare and a boat saves you!
 
 **You Won!**
 
-[Restart](../situations/startgame.md)
+[restart](../../startgame.md)

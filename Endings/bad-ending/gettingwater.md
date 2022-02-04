@@ -6,4 +6,4 @@ You go get water at the shore for your water filter, but.......
 
 While getting water, a shark bit you and you bled out and died.
 
-[Restart](../situations/startgame.md)
+[restart](../../startgame.md)

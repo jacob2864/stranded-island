@@ -4,4 +4,4 @@ You are safe and you are no longer stranded on the island
 
 **You Won!**
 
-[Restart](../situations/startgame.md)
+[restart](../../startgame.md)
