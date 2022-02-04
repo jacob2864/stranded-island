@@ -1,5 +1,6 @@
+
 You now have shelter.
 
 You:
-- [make water filter](../bad-ending/gettingwater.md)
-- [make survival tools](../bad-ending/maketools.md)
+- [make water filter](../Endings/bad-ending/gettingwater.md)
+- [make survival tools](../Endings/bad-ending/maketools.md)
