@@ -2,4 +2,4 @@
 
 You found some keys and realized he has a boat parked on the shore.
 
-[You go to his boat](../good-ending/boatending.md)
+[You go to his boat](../Endings/good-ending/boatending.md)
