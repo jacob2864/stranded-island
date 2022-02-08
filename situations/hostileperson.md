@@ -1,4 +1,4 @@
-He looks hostile and sees you
+You find someone but he looks hostile and sees you.
 
 Do you want to? :
 

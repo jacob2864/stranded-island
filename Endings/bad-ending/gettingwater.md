@@ -1,4 +1,4 @@
-Congrats you made your water filter and have unlimted water
+Congrats, you made your water filter and have unlimited water.
 
 You go get water at the shore for your water filter, but.......
 
