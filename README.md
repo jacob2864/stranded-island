@@ -4,6 +4,8 @@
 This is a game where you will go on an adventure on a stranded island.  
 Your goal is to escape the island and make it out there alive.
 
+The purpose of this project was to practice linking files and collaborating by pushing and pulling any changes we made.
+
 Click [here](startgame.md) to begin!  
 Click [here](https://docs.google.com/drawings/d/1fANng9_Y_7xG2bX2kH8UblOgocrSZtQQ00mH1iqwzqM/edit) to see the diagram for this CYOA.  
 
