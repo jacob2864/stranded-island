@@ -1,7 +1,7 @@
 # Choose Your Own Adventure
 ## Stranded Island
 
-This is a game where you will go on an adventure on a stranded island.
+This is a game where you will go on an adventure on a stranded island.  
 Your goal is to escape the island and make it out there alive.
 
 Click [here](startgame.md) to begin!  
