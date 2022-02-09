@@ -5,3 +5,5 @@ You use the flare and a boat saves you!
 **You Won!**
 
 [restart](../../startgame.md)
+
+![boat leaving island](https://images.pond5.com/boat-wake-aft-leaving-island-023813621_prevstill.jpeg)
